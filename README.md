@@ -4,6 +4,10 @@ This is a [progressive web app](https://developers.google.com/web/progressive-we
 
 
 
+this is the live link of this project  [Sorting Visualizer](https://sortingvz.netlify.app) 
+
+
+
 
 
 ## Purpose
